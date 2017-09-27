@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Nisarg changed it
 Vandan saw it
+=======
+Vandan changes it
+Nisarg saw it
+>>>>>>> Vandan
